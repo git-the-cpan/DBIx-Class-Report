@@ -35,4 +35,4 @@ resources:
   homepage: https://github.com/Ovid/dbix-class-report
   license: http://www.perlfoundation.org/artistic_license_2_0
   repository: https://github.com/Ovid/dbix-class-report
-version: 0.01
+version: 0.02
